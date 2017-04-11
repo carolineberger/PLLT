@@ -1,0 +1,9 @@
+Instructions:
+Download NoviceHelper_UpdateSite zip, unzip and put this into an easily reachable location
+in Eclipse Help > Install new software > Add... > Local... > (PATH TO NOVICEHELPER_UPDATESITE FOLDER) > Open > Checkbox
+for NoviceHelper_Feature > finish
+
+(restart Eclipse)
+
+Window > Show View > Other > Other > Novice Error View > (drag so both Problems View and Error View can be shown)
+

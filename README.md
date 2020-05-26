@@ -1,2 +1,2 @@
-# NoviceHelper
-COMP 400 Project with Professor Martin Robillard
+# Programming Language Learning Tool
+Eclipse plugin aimed at helping students learn to program.
